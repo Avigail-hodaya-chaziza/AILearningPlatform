@@ -1,0 +1,826 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\repositories\\ipromptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\ipromptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\unitofwork\\unitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\unitofwork\\unitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\repositories\\promptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\promptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\services\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\services\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\controllers\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\dtos\\subcategoryrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\dtos\\subcategoryrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\dtos\\subcategoryresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\dtos\\subcategoryresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\logs\\log20250911_013.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\logs\\log20250911_013.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\logs\\log20250911_011.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\logs\\log20250911_011.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\logs\\log20250911_010.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\logs\\log20250911_010.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\logs\\log20250911_009.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\logs\\log20250911_009.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\api\\logs\\log20250911_008.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{452CC5D8-9F8E-4505-8B0F-D820B0B24EB7}|Api\\Api.csproj|solutionrelative:api\\logs\\log20250911_008.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\exceptions\\openairesponseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\exceptions\\openairesponseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\mappingprofiles\\generalmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\mappingprofiles\\generalmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\dtos\\promptresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\dtos\\promptresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\dtos\\promptrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\dtos\\promptrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\dtos\\usersresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\dtos\\usersresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\dtos\\userrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\dtos\\userrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\mappingprofiles\\usermappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\mappingprofiles\\usermappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\dtos\\categoryresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\dtos\\categoryresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\dtos\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\dtos\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\mappingprofiles\\promptmappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\mappingprofiles\\promptmappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THE USER\\Pictures\\AILearningPlatform\\Dal\\Migrations\\20250909105617_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3387ADA-E21F-495B-AD4C-DF881B7CEA59}|Bl\\Bl.csproj|solutionrelative:bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\migrations\\20250909105750_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\migrations\\20250909105750_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\repositories\\subcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\subcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|c:\\users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\pictures\\ailearningplatform\\dal\\repositories\\isubcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E238201-1448-4463-A691-F29E658977CC}|Dal\\Dal.csproj|solutionrelative:dal\\repositories\\isubcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PromptService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Services\\PromptService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\PromptService.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Services\\PromptService.cs",
+              "RelativeToolTip": "Bl\\Services\\PromptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:22:36.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bl.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Bl.csproj",
+              "RelativeDocumentMoniker": "Bl\\Bl.csproj",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Bl.csproj",
+              "RelativeToolTip": "Bl\\Bl.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T01:16:49.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPromptRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\IPromptRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\IPromptRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\IPromptRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\IPromptRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:48:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-11T12:54:20.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-11T12:01:38.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork .cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\UnitOfWork\\UnitOfWork .cs",
+              "RelativeDocumentMoniker": "Dal\\UnitOfWork\\UnitOfWork .cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\UnitOfWork\\UnitOfWork .cs",
+              "RelativeToolTip": "Dal\\UnitOfWork\\UnitOfWork .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:30:04.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Dal\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Dal\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:28:59.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:21:51.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T01:20:56.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PromptRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\PromptRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\PromptRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\PromptRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\PromptRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:47:26.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:31:24.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Services\\UserServices.cs",
+              "RelativeToolTip": "Bl\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T23:10:40.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAArwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:27:20.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:23:00.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PromptsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\PromptsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PromptsController.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\PromptsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PromptsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:57:20.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Services\\SubCategoryService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\SubCategoryService.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Services\\SubCategoryService.cs",
+              "RelativeToolTip": "Bl\\Services\\SubCategoryService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:22:12.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Bl\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Bl\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:18:46.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SubCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\SubCategoryController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\SubCategoryController.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\SubCategoryController.cs",
+              "RelativeToolTip": "Api\\Controllers\\SubCategoryController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:18:06.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:22:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T20:40:08.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv4UAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:00:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T00:28:44.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubCategoryRequestDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\SubCategoryRequestDTOs.cs",
+              "RelativeDocumentMoniker": "Bl\\DTOs\\SubCategoryRequestDTOs.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\SubCategoryRequestDTOs.cs",
+              "RelativeToolTip": "Bl\\DTOs\\SubCategoryRequestDTOs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:02:58.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SubCategoryResponseDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\SubCategoryResponseDTOs.cs",
+              "RelativeDocumentMoniker": "Bl\\DTOs\\SubCategoryResponseDTOs.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\SubCategoryResponseDTOs.cs",
+              "RelativeToolTip": "Bl\\DTOs\\SubCategoryResponseDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:47:01.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "log20250911_013.txt",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_013.txt",
+              "RelativeDocumentMoniker": "Api\\logs\\log20250911_013.txt",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_013.txt",
+              "RelativeToolTip": "Api\\logs\\log20250911_013.txt",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAkwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-10T22:45:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "log20250911_008.txt",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_008.txt",
+              "RelativeDocumentMoniker": "Api\\logs\\log20250911_008.txt",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_008.txt",
+              "RelativeToolTip": "Api\\logs\\log20250911_008.txt",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-10T22:24:39.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "log20250911_009.txt",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_009.txt",
+              "RelativeDocumentMoniker": "Api\\logs\\log20250911_009.txt",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_009.txt",
+              "RelativeToolTip": "Api\\logs\\log20250911_009.txt",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-10T22:28:00.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "log20250911_010.txt",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_010.txt",
+              "RelativeDocumentMoniker": "Api\\logs\\log20250911_010.txt",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_010.txt",
+              "RelativeToolTip": "Api\\logs\\log20250911_010.txt",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-10T22:31:31.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "log20250911_011.txt",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_011.txt",
+              "RelativeDocumentMoniker": "Api\\logs\\log20250911_011.txt",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Api\\logs\\log20250911_011.txt",
+              "RelativeToolTip": "Api\\logs\\log20250911_011.txt",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-10T22:36:33.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Dal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Dal\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAewCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:43:23.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SubCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\SubCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\SubCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\SubCategoryRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\SubCategoryRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBQwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:25:04.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "Bl\\Exceptions\\UserAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeToolTip": "Bl\\Exceptions\\UserAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:16:43.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OpenAIResponseException.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Exceptions\\OpenAIResponseException.cs",
+              "RelativeDocumentMoniker": "Bl\\Exceptions\\OpenAIResponseException.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Exceptions\\OpenAIResponseException.cs",
+              "RelativeToolTip": "Bl\\Exceptions\\OpenAIResponseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:18:53.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GeneralMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\MappingProfiles\\GeneralMappingProfile.cs",
+              "RelativeDocumentMoniker": "Bl\\MappingProfiles\\GeneralMappingProfile.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\MappingProfiles\\GeneralMappingProfile.cs",
+              "RelativeToolTip": "Bl\\MappingProfiles\\GeneralMappingProfile.cs",
+              "ViewState": "AgIAAA8AAADw/////z8kwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:10:26.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PromptResponseDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\PromptResponseDTOs.cs",
+              "RelativeDocumentMoniker": "Bl\\DTOs\\PromptResponseDTOs.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\PromptResponseDTOs.cs",
+              "RelativeToolTip": "Bl\\DTOs\\PromptResponseDTOs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:19:39.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PromptRequestDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\PromptRequestDTOs.cs",
+              "RelativeDocumentMoniker": "Bl\\DTOs\\PromptRequestDTOs.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\PromptRequestDTOs.cs",
+              "RelativeToolTip": "Bl\\DTOs\\PromptRequestDTOs.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:19:12.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Models\\SubCategory.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\SubCategory.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Models\\SubCategory.cs",
+              "RelativeToolTip": "Dal\\Models\\SubCategory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:06:29.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:17:30.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Dal\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Models\\Category.cs",
+              "RelativeToolTip": "Dal\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:03:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ISubCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\ISubCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repositories\\ISubCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Repositories\\ISubCategoryRepository.cs",
+              "RelativeToolTip": "Dal\\Repositories\\ISubCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:26:16.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsersResponseDtos.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\UsersResponseDtos.cs",
+              "RelativeDocumentMoniker": "Bl\\DTOs\\UsersResponseDtos.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\UsersResponseDtos.cs",
+              "RelativeToolTip": "Bl\\DTOs\\UsersResponseDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:11:38.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserRequestDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\UserRequestDTOs.cs",
+              "RelativeDocumentMoniker": "Bl\\DTOs\\UserRequestDTOs.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\UserRequestDTOs.cs",
+              "RelativeToolTip": "Bl\\DTOs\\UserRequestDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:15:20.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserMappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\MappingProfiles\\UserMappingProfiles.cs",
+              "RelativeDocumentMoniker": "Bl\\MappingProfiles\\UserMappingProfiles.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\MappingProfiles\\UserMappingProfiles.cs",
+              "RelativeToolTip": "Bl\\MappingProfiles\\UserMappingProfiles.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:08:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryResponseDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\CategoryResponseDTOs.cs",
+              "RelativeDocumentMoniker": "Bl\\DTOs\\CategoryResponseDTOs.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\CategoryResponseDTOs.cs",
+              "RelativeToolTip": "Bl\\DTOs\\CategoryResponseDTOs.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBZwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:02:14.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\CategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "Bl\\DTOs\\CategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\DTOs\\CategoryRequestDto.cs",
+              "RelativeToolTip": "Bl\\DTOs\\CategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:07:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PromptMappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\MappingProfiles\\PromptMappingProfiles.cs",
+              "RelativeDocumentMoniker": "Bl\\MappingProfiles\\PromptMappingProfiles.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\MappingProfiles\\PromptMappingProfiles.cs",
+              "RelativeToolTip": "Bl\\MappingProfiles\\PromptMappingProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:12:07.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250909105750_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Migrations\\20250909105750_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Dal\\Migrations\\20250909105750_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Migrations\\20250909105750_InitialCreate.cs",
+              "RelativeToolTip": "Dal\\Migrations\\20250909105750_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:57:51.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250909105617_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\THE USER\\Pictures\\AILearningPlatform\\Dal\\Migrations\\20250909105617_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\THE USER\\Pictures\\AILearningPlatform\\Dal\\Migrations\\20250909105617_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\THE USER\\Pictures\\AILearningPlatform\\Dal\\Migrations\\20250909105617_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\THE USER\\Pictures\\AILearningPlatform\\Dal\\Migrations\\20250909105617_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:56:17.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Class1.cs",
+              "RelativeDocumentMoniker": "Bl\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Bl\\Class1.cs",
+              "RelativeToolTip": "Bl\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:40:37.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Class1.cs",
+              "RelativeDocumentMoniker": "Dal\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u05D4\u05E9\u05DB\u05E8\u05D4\\Pictures\\AILearningPlatform\\Dal\\Class1.cs",
+              "RelativeToolTip": "Dal\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:40:17.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
