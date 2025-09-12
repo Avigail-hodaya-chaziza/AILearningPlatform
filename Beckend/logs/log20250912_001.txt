@@ -1,0 +1,29 @@
+2025-09-12 13:07:22.965 +03:00 [INF] HTTP GET /swagger responded 301 in 15.2907 ms
+2025-09-12 13:07:24.036 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 380.4367 ms
+2025-09-12 13:07:24.598 +03:00 [INF] HTTP GET /swagger/index.css responded 200 in 53.2178 ms
+2025-09-12 13:07:24.685 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 151.4641 ms
+2025-09-12 13:07:24.733 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 167.8793 ms
+2025-09-12 13:07:25.067 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 28.4688 ms
+2025-09-12 13:07:26.051 +03:00 [INF] HTTP GET /swagger/index.js responded 200 in 4.0510 ms
+2025-09-12 13:07:30.353 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 36.1241 ms
+2025-09-12 13:14:21.256 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 78.6714 ms
+2025-09-12 13:14:33.698 +03:00 [WRN] The foreign key property 'Prompt.SubCategoryId1' was created in shadow state because a conflicting property with the simple name 'SubCategoryId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-09-12 13:14:37.826 +03:00 [INF] HTTP GET /api/Admin/users responded 200 in 7217.0775 ms
+2025-09-12 13:14:54.979 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 473.1078 ms
+2025-09-12 13:15:07.573 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 620.2271 ms
+2025-09-12 13:15:22.163 +03:00 [INF] Request received to get all categories.
+2025-09-12 13:15:22.239 +03:00 [INF] Successfully retrieved 2 categories.
+2025-09-12 13:15:22.280 +03:00 [INF] HTTP GET /api/Category responded 200 in 151.3382 ms
+2025-09-12 13:15:34.885 +03:00 [INF] Request received to get subcategories for Category ID: 2
+2025-09-12 13:15:34.969 +03:00 [INF] Successfully retrieved 2 subcategories for Category ID: 2.
+2025-09-12 13:15:34.993 +03:00 [INF] HTTP GET /api/Category/2/subcategories responded 200 in 206.2351 ms
+2025-09-12 13:15:42.983 +03:00 [INF] HTTP POST /api/Prompts/CreatePrompt responded 400 in 114.7056 ms
+2025-09-12 13:16:12.847 +03:00 [INF] Received GetUserHistory request for User ID: 2
+2025-09-12 13:16:12.897 +03:00 [INF] Successfully retrieved history for User ID: 2. Found 2 items.
+2025-09-12 13:16:12.945 +03:00 [INF] HTTP GET /api/Prompts/GetUserHistory/2 responded 200 in 118.4087 ms
+2025-09-12 13:16:57.328 +03:00 [INF] Request received to create a new subcategory with name: tecnology
+2025-09-12 13:16:57.843 +03:00 [INF] Successfully created subcategory with ID: 4
+2025-09-12 13:16:57.852 +03:00 [INF] HTTP POST /api/SubCategory responded 200 in 584.1412 ms
+2025-09-12 13:17:22.425 +03:00 [INF] Request received for subcategory with ID: 1
+2025-09-12 13:17:22.540 +03:00 [INF] Successfully retrieved subcategory with ID: 1
+2025-09-12 13:17:22.549 +03:00 [INF] HTTP GET /api/SubCategory/1 responded 200 in 145.1995 ms

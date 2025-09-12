@@ -1,0 +1,15 @@
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\bin\Debug\net8.0\Bl.deps.json
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\bin\Debug\net8.0\Bl.dll
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\bin\Debug\net8.0\Bl.pdb
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\bin\Debug\net8.0\Dal.dll
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\bin\Debug\net8.0\Dal.pdb
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\Bl.dll
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\refint\Bl.dll
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\Bl.pdb
+C:\Users\THE USER\Pictures\AILearningPlatform\Bl\obj\Debug\net8.0\ref\Bl.dll

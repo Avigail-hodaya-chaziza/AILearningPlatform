@@ -1,0 +1,124 @@
+2025-09-12 13:14:21.256 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 78.6714 ms
+2025-09-12 13:14:33.698 +03:00 [WRN] The foreign key property 'Prompt.SubCategoryId1' was created in shadow state because a conflicting property with the simple name 'SubCategoryId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-09-12 13:14:37.826 +03:00 [INF] HTTP GET /api/Admin/users responded 200 in 7217.0775 ms
+2025-09-12 13:14:54.979 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 473.1078 ms
+2025-09-12 13:15:07.573 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 620.2271 ms
+2025-09-12 13:15:22.163 +03:00 [INF] Request received to get all categories.
+2025-09-12 13:15:22.239 +03:00 [INF] Successfully retrieved 2 categories.
+2025-09-12 13:15:22.280 +03:00 [INF] HTTP GET /api/Category responded 200 in 151.3382 ms
+2025-09-12 13:15:34.885 +03:00 [INF] Request received to get subcategories for Category ID: 2
+2025-09-12 13:15:34.969 +03:00 [INF] Successfully retrieved 2 subcategories for Category ID: 2.
+2025-09-12 13:15:34.993 +03:00 [INF] HTTP GET /api/Category/2/subcategories responded 200 in 206.2351 ms
+2025-09-12 13:15:42.983 +03:00 [INF] HTTP POST /api/Prompts/CreatePrompt responded 400 in 114.7056 ms
+2025-09-12 13:16:12.847 +03:00 [INF] Received GetUserHistory request for User ID: 2
+2025-09-12 13:16:12.897 +03:00 [INF] Successfully retrieved history for User ID: 2. Found 2 items.
+2025-09-12 13:16:12.945 +03:00 [INF] HTTP GET /api/Prompts/GetUserHistory/2 responded 200 in 118.4087 ms
+2025-09-12 13:16:57.328 +03:00 [INF] Request received to create a new subcategory with name: tecnology
+2025-09-12 13:16:57.843 +03:00 [INF] Successfully created subcategory with ID: 4
+2025-09-12 13:16:57.852 +03:00 [INF] HTTP POST /api/SubCategory responded 200 in 584.1412 ms
+2025-09-12 13:17:22.425 +03:00 [INF] Request received for subcategory with ID: 1
+2025-09-12 13:17:22.540 +03:00 [INF] Successfully retrieved subcategory with ID: 1
+2025-09-12 13:17:22.549 +03:00 [INF] HTTP GET /api/SubCategory/1 responded 200 in 145.1995 ms
+2025-09-12 13:30:13.597 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-09-12 13:30:13.792 +03:00 [INF] HTTP OPTIONS /api/User/register responded 204 in 267.7182 ms
+2025-09-12 13:30:14.989 +03:00 [INF] Registration request received for user with phone: 0583284905
+2025-09-12 13:30:16.237 +03:00 [WRN] The foreign key property 'Prompt.SubCategoryId1' was created in shadow state because a conflicting property with the simple name 'SubCategoryId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-09-12 13:30:21.445 +03:00 [WRN] Registration failed: A user with this phone number already exists. Phone: 0583284905
+Bl.Exceptions.UserAlreadyExistsException: This phone number is already registered.
+   at Bl.Services.UserServices.RegisterUserAsync(String name, String phone) in C:\Users\השכרה\Pictures\AILearningPlatform\Bl\Services\UserServices.cs:line 36
+   at Api.Controllers.UserController.RegisterUser(UserRequestDTOs userRequestDto) in C:\Users\השכרה\Pictures\AILearningPlatform\Api\Controllers\UserController.cs:line 54
+2025-09-12 13:30:21.532 +03:00 [INF] HTTP POST /api/User/register responded 409 in 7696.6854 ms
+2025-09-12 13:30:51.034 +03:00 [INF] HTTP OPTIONS /api/User/register responded 204 in 2.1853 ms
+2025-09-12 13:30:51.054 +03:00 [INF] Registration request received for user with phone: 0504155568
+2025-09-12 13:30:51.714 +03:00 [INF] Successfully registered new user with ID: 9
+2025-09-12 13:30:51.775 +03:00 [INF] HTTP POST /api/User/register responded 200 in 736.8390 ms
+2025-09-12 13:30:51.889 +03:00 [INF] Request received to get all categories.
+2025-09-12 13:30:51.918 +03:00 [INF] Received GetUserHistory request for User ID: 9
+2025-09-12 13:30:52.230 +03:00 [INF] Successfully retrieved 2 categories.
+2025-09-12 13:30:52.243 +03:00 [WRN] No history found for User ID: 9
+2025-09-12 13:30:52.310 +03:00 [INF] HTTP GET /api/Category responded 200 in 473.0879 ms
+2025-09-12 13:30:52.314 +03:00 [INF] HTTP GET /api/Prompts/GetUserHistory/9 responded 404 in 471.7317 ms
+2025-09-12 13:30:52.315 +03:00 [INF] Request received to get all categories.
+2025-09-12 13:30:52.325 +03:00 [INF] Received GetUserHistory request for User ID: 9
+2025-09-12 13:30:52.327 +03:00 [INF] Successfully retrieved 2 categories.
+2025-09-12 13:30:52.328 +03:00 [INF] HTTP GET /api/Category responded 200 in 15.1799 ms
+2025-09-12 13:30:52.332 +03:00 [WRN] No history found for User ID: 9
+2025-09-12 13:30:52.333 +03:00 [INF] HTTP GET /api/Prompts/GetUserHistory/9 responded 404 in 14.0907 ms
+2025-09-12 13:30:56.120 +03:00 [INF] Request received to get subcategories for Category ID: 2
+2025-09-12 13:30:56.183 +03:00 [INF] Successfully retrieved 2 subcategories for Category ID: 2.
+2025-09-12 13:30:56.193 +03:00 [INF] HTTP GET /api/Category/2/subcategories responded 200 in 90.8434 ms
+2025-09-12 13:31:13.553 +03:00 [INF] HTTP OPTIONS /api/Prompts/CreatePrompt responded 204 in 0.1730 ms
+2025-09-12 13:31:13.581 +03:00 [INF] Received CreatePrompt request for User ID: 9, Category ID: 2, SubCategory ID: 2
+2025-09-12 13:31:27.235 +03:00 [INF] Raw OpenAI Response: שלום! אני בסדר, תודה. אני כאן כדי לעזור לך וללמד על נושאים שונים. אם אתה מעוניין בטכנולוגיה וב-API בפרט, אשמח להסביר.
+
+### מה זה API?
+
+API (Application Programming Interface) הוא ממשק תכנות יישומים המאפשר למערכות תוכנה שונות לתקשר ולהעביר נתונים ביניהן. ה-API מספק כלים ופרוטוקולים שבהם מפתחים משתמשים כדי לבנות תוכנות ולהתחבר לתוכנות אחרות בצורה פשוטה, מהירה וניתנת להרחבה.
+
+### כיצד עובד API?
+
+1. **בקשת API (Request):** מערכת אחת שולחת בקשה (כמו HTTP GET או POST) לממשק ה-API של מערכת אחרת.
+
+2. **תהליכי ה-API (Processing):** המערכת המקבלת את הבקשה מעבירה אותה דרך מנוע עיבוד שמתאים אותה לשירותים הפנימיים שלה.
+
+3. **תגובה (Response):** תוצאת התהליך נשלחת חזרה למערכת שהגישה את הבקשה כתגובה. זו יכולה להיות מידע (בדרך כלל בפורמט JSON או XML), אישור לביצוע פעולה, או הודעת שגיאה.
+
+### סוגי API
+
+1. **פנימי (Internal):** משמש לתקשורת בין חלקים שונים של אותה תוכנה או מערכת פנימית.
+
+2. **חיצוני (External/Public):** מאפשר למערכות שונות של חברות או קבוצות שונות לתקשר זו עם זו.
+
+3. **מבוסס רשת (Web API):** API הנגיש דרך הרשת, כגון RESTful APIs.
+
+### יתרונות של שימוש ב-API
+
+- **אינטגרציה מהירה וקלה:** מאפשר חיבור מהיר בין מערכות שונות.
+- **חסכון בזמן ובעלויות פיתוח:** במקום לפתח מחדש רכיבים קיימים, ניתן להשתמש ברכיבים של צד שלישי.
+- **גמישות והרחבה:** קל להוסיף פיצ'רים חדשים בלי לשנות את כל המערכת.
+- **אבטחה:** כאשר משתמשים נכון ב-API, ניתן לשלוט בגישה ולשמור על אבטחת מידע.
+
+אם יש לך שאלות נוספות או אם אתה מעוניין בפרטים נוספים על נושא מסוים הקשור ל-API, אני כאן בשבילך!
+2025-09-12 13:31:27.452 +03:00 [INF] Successfully created prompt for User ID: 9. Response length: 1477
+2025-09-12 13:31:27.461 +03:00 [INF] HTTP POST /api/Prompts/CreatePrompt responded 200 in 13905.2963 ms
+2025-09-12 13:31:27.477 +03:00 [INF] Received GetUserHistory request for User ID: 9
+2025-09-12 13:31:27.493 +03:00 [INF] Successfully retrieved history for User ID: 9. Found 1 items.
+2025-09-12 13:31:27.507 +03:00 [INF] HTTP GET /api/Prompts/GetUserHistory/9 responded 200 in 31.5518 ms
+2025-09-12 13:31:41.880 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 88.8697 ms
+2025-09-12 13:31:41.896 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 11.8111 ms
+2025-09-12 13:31:51.491 +03:00 [INF] HTTP GET /api/Admin/users responded 200 in 39.5909 ms
+2025-09-12 13:31:51.498 +03:00 [INF] HTTP GET /api/Admin/users responded 200 in 5.2814 ms
+2025-09-12 13:32:02.053 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 55.7336 ms
+2025-09-12 13:32:02.066 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 8.0544 ms
+2025-09-12 13:37:03.853 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 216.0139 ms
+2025-09-12 13:37:03.869 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 13.9951 ms
+2025-09-12 13:38:52.607 +03:00 [INF] HTTP GET /api/Admin/users responded 200 in 9.9906 ms
+2025-09-12 13:38:52.616 +03:00 [INF] HTTP GET /api/Admin/users responded 200 in 5.3355 ms
+2025-09-12 13:40:05.788 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 19.3632 ms
+2025-09-12 13:40:07.957 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 20.9647 ms
+2025-09-12 13:40:07.967 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 6.2901 ms
+2025-09-12 13:40:09.187 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 11.6340 ms
+2025-09-12 13:40:10.800 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 6.0393 ms
+2025-09-12 13:40:10.810 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 6.8390 ms
+2025-09-12 13:40:11.972 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 5.2291 ms
+2025-09-12 13:44:57.181 +03:00 [INF] HTTP GET /api/Admin/users responded 200 in 131.0481 ms
+2025-09-12 13:44:57.191 +03:00 [INF] HTTP GET /api/Admin/users responded 200 in 7.8534 ms
+2025-09-12 13:45:04.510 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 14.1381 ms
+2025-09-12 13:45:04.521 +03:00 [INF] HTTP GET /api/Admin/prompts responded 200 in 7.8121 ms
+2025-09-12 13:48:30.692 +03:00 [INF] HTTP GET /api/Admin/stats responded 200 in 22.9194 ms
+2025-09-12 13:55:58.632 +03:00 [INF] HTTP OPTIONS /api/User/register responded 204 in 0.2599 ms
+2025-09-12 13:55:58.643 +03:00 [INF] Registration request received for user with phone: 0909090909
+2025-09-12 13:55:58.775 +03:00 [INF] Successfully registered new user with ID: 10
+2025-09-12 13:55:58.776 +03:00 [INF] HTTP POST /api/User/register responded 200 in 137.6199 ms
+2025-09-12 13:55:58.808 +03:00 [INF] Request received to get all categories.
+2025-09-12 13:55:58.811 +03:00 [INF] Received GetUserHistory request for User ID: 10
+2025-09-12 13:55:58.814 +03:00 [INF] Successfully retrieved 2 categories.
+2025-09-12 13:55:58.814 +03:00 [INF] HTTP GET /api/Category responded 200 in 7.4775 ms
+2025-09-12 13:55:58.817 +03:00 [INF] Request received to get all categories.
+2025-09-12 13:55:58.822 +03:00 [INF] Successfully retrieved 2 categories.
+2025-09-12 13:55:58.823 +03:00 [INF] HTTP GET /api/Category responded 200 in 6.4186 ms
+2025-09-12 13:55:58.833 +03:00 [WRN] No history found for User ID: 10
+2025-09-12 13:55:58.835 +03:00 [INF] HTTP GET /api/Prompts/GetUserHistory/10 responded 404 in 24.2087 ms
+2025-09-12 13:55:58.838 +03:00 [INF] Received GetUserHistory request for User ID: 10
+2025-09-12 13:55:58.841 +03:00 [WRN] No history found for User ID: 10
+2025-09-12 13:55:58.842 +03:00 [INF] HTTP GET /api/Prompts/GetUserHistory/10 responded 404 in 5.0414 ms

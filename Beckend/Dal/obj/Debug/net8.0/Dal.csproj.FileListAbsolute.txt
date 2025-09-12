@@ -1,0 +1,14 @@
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\THE USER\Pictures\AILearningPlatform\Dal\obj\Debug\net8.0\ref\Dal.dll

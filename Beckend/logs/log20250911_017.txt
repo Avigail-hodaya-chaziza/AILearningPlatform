@@ -1,0 +1,8 @@
+2025-09-11 18:53:22.378 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-09-11 18:53:22.510 +03:00 [INF] HTTP OPTIONS /api/User/register responded 204 in 242.1045 ms
+2025-09-11 18:53:49.980 +03:00 [INF] HTTP GET /api/User/register responded 405 in 104.0480 ms
+2025-09-11 18:53:52.743 +03:00 [INF] HTTP GET /api/User/register responded 405 in 5.6648 ms
+2025-09-11 18:54:14.484 +03:00 [INF] HTTP OPTIONS /api/User/register responded 204 in 0.4485 ms
+2025-09-11 18:54:17.733 +03:00 [INF] HTTP OPTIONS /api/User/register responded 204 in 0.0905 ms
+2025-09-11 18:56:30.463 +03:00 [INF] HTTP OPTIONS /api/User/register responded 204 in 0.2140 ms
+2025-09-11 13:20:20.625 +02:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 106.7156 ms
