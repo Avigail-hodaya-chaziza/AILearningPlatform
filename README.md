@@ -1,39 +1,35 @@
-פלטפורמת למידה מונחית AI
-סקירת פרויקט
-פלטפורמת למידה מונחית AI זו מאפשרת למשתמשים לבחור נושאי לימוד,
-לשלוח שאלות למודל בינה מלאכותית ולקבל שיעורים מותאמים אישית.
-המערכת כוללת מערכת בקאנד עם REST API, מסד נתונים ואינטגרציה עם מודל AI.
-הפרויקט כולל גם ממשק משתמש (פרונטאנד).
+AI-Driven Learning Platform
+Project Overview
+This AI-driven learning platform allows users to select learning topics, submit questions to an AI model, and receive personalized lessons. The system includes a support system with REST API, database, and integration with an AI model. The project also includes a user interface (frontend).
 
-דרישות טכניות
-בקאנד
-שפה: C#‎
+Technical Requirements
+backend
+Language: C#
 
-ארכיטקטורה: 3 שכבות
+Architecture: 3-Tier Model
 
-מסד נתונים: Microsoft SQL Server
+Database: Microsoft SQL Server
 
-אינטגרציה: אינטגרציה עם מודל AI (באמצעות API)
+Integration: Integration with an AI model (via API)
 
-פרונטאנד
-שפה: React
+frontend
+Language: React
 
-עיצוב: ממשק משתמש רספונסיבי
+Design: Responsive UI
 
-ארכיטקטורת מערכת
-הפרויקט בנוי במודל שלוש שכבות בבקאנד, המבטיח הפרדת אחריות:
+System Architecture
+The backend of the project is built on a 3-tier model, which ensures separation of responsibilities:
 
-שכבת ה-API: מטפלת בקבלת בקשות HTTP מהפרונטאנד.
+API Layer: Handles incoming HTTP requests from the frontend.
 
-שכבת לוגיקה עסקית (BLL): מכילה את כל הלוגיקה והכללים העסקיים.
+Business Logic Layer (BLL): Contains all business logic and rules.
 
-שכבת גישה לנתונים (DAL): אחראית על התקשורת עם מסד הנתונים.
+Data Access Layer (DAL): Responsible for all communication with the database.
 
-הפרונטאנד מפותח ב-React ואחראי על התקשורת עם ה-API והצגת הנתונים למשתמש.
+The frontend is developed using React and is responsible for communicating with the API and presenting data to the user.
 
-שימוש ב-SQL
-מסד הנתונים מבוסס על Microsoft SQL Server וכולל טבלאות כמו users, categories, sub_categories ו-prompts עם יחסים מוגדרים.
+Using SQL
+The database is based on Microsoft SQL Server and includes tables such as users, categories, subcategories, and directives with defined relationships.
 
-הוראות הפעלה
-לצורך הפעלת המערכת יש להריץ את הבקאנד והפרונטאנד בנפרד. יש להבטיח את הגדרות החיבור הנכונות למסד הנתונים בקבצי התצורה של הפרויקט.
-
+Installation and Operation
+To run the system, the backend and frontend must be run separately. Make sure that the database connection settings are correct in the project configuration files.
