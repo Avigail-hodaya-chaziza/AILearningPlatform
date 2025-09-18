@@ -16,7 +16,7 @@ Frontend
 Language: React
 
 Design: Responsive user interface
-
+Docker: docker file 
 System Architecture
 The project's backend is built on a 3-tier model, ensuring a separation of responsibilities:
 
@@ -58,3 +58,14 @@ npm start
 
 SQL Usage
 The database is based on Microsoft SQL Server and includes tables such as users, categories, sub_categories, and prompts with defined relationships.
+## Run with Docker
+
+This project includes Docker support for easier deployment.
+
+### Prerequisites
+- Docker
+- Docker Compose
+
+### Run
+```bash
+docker-compose up --build
