@@ -1,5 +1,5 @@
-AI-Driven Learning Platform
-Project Overview
+## AI-Driven Learning Platform
+## Project Overview
 
 ## 🎯 The Value Proposition: Why AI Learning?
 
