@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+  database:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      SA_PASSWORD: "YourStrong@Passw0rd"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+
+  api:
+    build: ./Beckend
+    ports:
+      - "5215:80"
+    depends_on:
+      - database
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=database;Database=AILearningPlatform;User Id=sa;PassWord=YourStrong@Passw0rd;TrustServerCertificate=true;
+
+  frontend:
+    build: ./Frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
